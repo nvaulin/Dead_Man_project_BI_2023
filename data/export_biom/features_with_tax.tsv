@@ -1,0 +1,466 @@
+	Feature ID	S10-V5-Q-B61-calc	S14-V5-P-B17-calc	S15-V5-R-B78-calc	S16S17-V5-K1-G12-root	S16S17-V5-K2-G12-root	S18S19-V5-L-B17-root	S20S21-V5-M-B61-root	S22S23-V5-N-B78-root	S8-V5-O-G12-calc	Taxon
+0	f9821fb43c02be88fa4827e5ddb9dcfe	0.0	0.0	0.0	213.0	219.0	245.0	1053.0	338.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504721; f__Hyphomicrobiaceae
+1	3cbb3df78d3599b947fbb2fb7671b8b4	426.0	68.0	608.0	0.0	0.0	0.0	0.0	0.0	953.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae
+2	52af003ffdf8d1321283ea1722d67448	37.0	0.0	7.0	439.0	383.0	397.0	164.0	487.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae
+3	39b697d152eef5d7732a968f54b8c49f	545.0	109.0	643.0	0.0	0.0	0.0	0.0	0.0	501.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae
+4	95e823dc726a488002f20b54f44da933	0.0	0.0	0.0	536.0	495.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_595422; f__Burkholderiaceae_A_595422; g__Alcaligenes
+5	b804868fb3fddd1c9f008dd6ac28d497	0.0	0.0	0.0	216.0	223.0	48.0	16.0	508.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Tissierellales; f__Tissierellaceae
+6	938b78aa66fd365558abfa9f03a36887	0.0	0.0	0.0	0.0	0.0	736.0	44.0	29.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptomycetales_400645; f__Streptomycetaceae_400641
+7	2ac137eefa611e8c6c2a576d4ad21620	237.0	169.0	47.0	0.0	0.0	0.0	0.0	0.0	225.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus
+8	276387bb1289a762631d930be78f312e	125.0	47.0	245.0	0.0	0.0	0.0	6.0	0.0	253.0	d__Bacteria; p__Synergistota; c__Synergistia; o__Synergistales; f__Aminobacteriaceae
+9	430e2740e97955ba914c491808d702c6	0.0	0.0	0.0	109.0	125.0	144.0	131.0	108.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Bacillales_B_302584
+10	8aa06d7f530d17fffe4cd33489cda91f	0.0	0.0	0.0	85.0	72.0	0.0	107.0	339.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466; g__ELB16-189
+11	073985546183c889b974c315e7d175d3	21.0	0.0	0.0	175.0	164.0	75.0	36.0	116.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504721; f__Hyphomicrobiaceae
+12	e97931e7f552c8afe97ce99071ee48c0	260.0	0.0	164.0	0.0	0.0	0.0	0.0	0.0	149.0	d__Bacteria; p__Firmicutes_D; c__Bacilli
+13	6da2bcff2966a8d175ee456e3e3f818f	0.0	0.0	0.0	283.0	265.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Leucobacter
+14	488daca92f59918979ea8c6fea056ec1	165.0	362.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597441; f__Neisseriaceae_563222; g__Neisseria_563205
+15	ecea33fc49b55efb6726adaef3b28617	205.0	116.0	49.0	0.0	0.0	0.0	0.0	0.0	120.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus
+16	6422ad2bca359710069c3666b586bbfe	66.0	61.0	38.0	0.0	0.0	73.0	0.0	0.0	231.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Tissierellales; f__Peptoniphilaceae; g__W5053; s__
+17	ed5399f02423e9c19ef1aabbac0a2bf1	209.0	76.0	135.0	0.0	0.0	40.0	0.0	0.0	0.0	d__Bacteria; p__Synergistota; c__Synergistia; o__Synergistales; f__Aminobacteriaceae; g__Fretibacterium; s__Fretibacterium fastidiosum
+18	746dde75bb7d2808c37801a76c2da61a	0.0	0.0	0.0	241.0	219.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Rhodococcus_C_375578
+19	99ee0dea881fb7593f8260e41ee84fe6	0.0	0.0	0.0	223.0	234.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_501396
+20	2d76df5227874b5add5da94e09574e75	0.0	0.0	0.0	0.0	0.0	29.0	30.0	387.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Clostridiales; f__Clostridiaceae_222000; g__Clostridium_L
+21	e9067a7f9ade9133b92b466f8f39380d	113.0	0.0	324.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Atopobiaceae
+22	534228e5ba669023d3ec44649b7ea217	116.0	0.0	27.0	0.0	0.0	0.0	0.0	0.0	233.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+23	e63eef1672eb9de58c79c88d90964848	0.0	0.0	0.0	26.0	16.0	72.0	118.0	132.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae_966727
+24	a16897ee9cfdfd6609f3697d456b6119	44.0	316.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597441; f__Neisseriaceae_563222
+25	cb8a00298cc33fb603f524284eea94b3	78.0	168.0	10.0	0.0	0.0	0.0	0.0	0.0	102.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+26	32bf1d7bfbcfbc693a6307d12dab2423	87.0	199.0	13.0	0.0	0.0	0.0	0.0	0.0	55.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Staphylococcales; f__Gemellaceae; g__Gemella
+27	ef223441c8b1ab15ae5dd7a4f0f93ff1	0.0	344.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+28	0a29824bb5726f176667c3e928dc9c2f	168.0	175.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae
+29	b9aacc9da3e8abd74be8b064920795bb	78.0	174.0	20.0	0.0	0.0	0.0	0.0	0.0	31.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Filifactoraceae_235894; g__Peptoanaerobacter; s__Eubacterium yurii
+30	59853012c4917d69e9ab2f6b1916afb1	0.0	0.0	0.0	154.0	147.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_501396; f__Rhizobiaceae_A_499470
+31	51b185377dde3ffe63b1452c94dd51e8	0.0	0.0	0.0	0.0	0.0	26.0	267.0	0.0	0.0	d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__Palsa-1233; s__
+32	9931fc4a3f73eb0b3982e7d5bf005f2a	0.0	0.0	0.0	0.0	0.0	0.0	287.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__SCUD01; s__
+33	81f691a5907a77f95803ca349f859bf8	0.0	0.0	0.0	134.0	105.0	47.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli
+34	9b1fb3fb30da41e1b6c4209f601c2197	80.0	109.0	32.0	0.0	0.0	0.0	0.0	0.0	58.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae
+35	f9219ae5a905cee4ae5c96610c139aad	0.0	74.0	0.0	0.0	0.0	135.0	0.0	0.0	61.0	d__Bacteria
+36	453a8279ad9ff5cd59237d105298b2d3	9.0	0.0	0.0	61.0	53.0	0.0	67.0	72.0	0.0	d__Bacteria; p__Nitrospirota_A_437815; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Palsa-1315
+37	a30b24a1a8470d185fe851e43aac8b56	91.0	66.0	9.0	0.0	0.0	0.0	0.0	0.0	90.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+38	b25bbf5411fdb4852cd8fa50aa72b6f6	0.0	0.0	0.0	115.0	137.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_595422; f__Burkholderiaceae_A_595422
+39	ea481f629be4cf9a04ae86311c675003	0.0	0.0	0.0	137.0	112.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_501396; f__Rhizobiaceae_A_499470
+40	a4d9ad681b76206e3bebb99e14353a7f	0.0	0.0	0.0	0.0	0.0	0.0	234.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae; g__Agromyces_B_382064
+41	956f429027fe8c2bd44bc5945dafd7ad	0.0	0.0	0.0	43.0	50.0	78.0	51.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504723; f__Aestuariivirgaceae
+42	f171f695e67dafdfa3bc4ea45e48c453	91.0	48.0	64.0	0.0	0.0	18.0	0.0	0.0	0.0	d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__Anaerolineaceae_409200; g__Flexilinea; s__Flexilinea sp902786265
+43	e82c9093693e7629e694f7ef9d6989f6	0.0	0.0	0.0	135.0	85.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales_650611; f__Pseudomonadaceae
+44	c23f09b909a3082dfc2f2dbdbc7664bd	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	208.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae; g__RUG754; s__RUG754 sp900315895
+45	7835aaf22fccec0558496fbc82288e5a	25.0	30.0	0.0	0.0	0.0	0.0	0.0	0.0	154.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae; g__Hornefia
+46	b09eb9b712d8da895f0dbee427a1a591	0.0	0.0	0.0	0.0	0.0	40.0	111.0	48.0	0.0	d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales
+47	268562fb503bfa543ee47c17177b20f9	0.0	0.0	0.0	0.0	0.0	48.0	47.0	100.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae
+48	9e8dfc218e84015bb40185d42281a9ee	0.0	0.0	0.0	104.0	84.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales_613062; f__Rhodanobacteraceae_613062
+49	246c20fb68ba6b42199de278e7238a86	81.0	18.0	50.0	0.0	0.0	0.0	0.0	0.0	35.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Christensenellales; f__CAG-74; g__SFMI01
+50	8447f0839cf75085a94fab291be9be80	91.0	24.0	68.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Archaea; p__Methanobacteriota_A_1229; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter_A
+51	f1714a6cfaaa481ce548a9608b1812a3	70.0	0.0	33.0	0.0	0.0	0.0	0.0	0.0	78.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae; g__Eubacterium_N; s__Eubacterium_N saphenum
+52	4d0fd138c382a0f1eaea469cd16b8a14	43.0	57.0	32.0	0.0	0.0	0.0	0.0	0.0	49.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Paludibacteraceae; g__F0058
+53	e73ebe1899f20b762cab0e5a85f513de	13.0	0.0	58.0	0.0	0.0	0.0	0.0	0.0	110.0	d__Bacteria; p__Desulfobacterota_I; c__Desulfobulbia; o__Desulfobulbales; f__Desulfobulbaceae; g__Desulfobulbus_A_451156; s__Desulfobulbus_A_451156 oralis
+54	2ecc26fa38d0f81cfd44270ae78aed8f	0.0	0.0	0.0	40.0	52.0	44.0	0.0	42.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Bacillales_B_302584
+55	07dae3ddceb57eb29048bd82c77d9228	53.0	48.0	12.0	0.0	0.0	0.0	0.0	0.0	64.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Tissierellales; f__Peptoniphilaceae; g__Parvimonas; s__Parvimonas micra
+56	753adcffab1789e51335b16c46a8120f	0.0	0.0	0.0	35.0	24.0	21.0	68.0	26.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+57	add01eb7e5d5bf540fa1bf359c938531	0.0	119.0	0.0	0.0	0.0	0.0	0.0	0.0	54.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae; g__Capnocytophaga_820690; s__Capnocytophaga gingivalis
+58	38944b76c90c1642a3577f1ccc8cedd7	59.0	0.0	109.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Pauljensenia
+59	d56eb106101d763952845800113671b6	2.0	0.0	0.0	36.0	26.0	13.0	68.0	22.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466; g__Chryseolinea; s__
+60	3f2e1626e5bb88d914bba1488f893cc8	25.0	0.0	0.0	13.0	0.0	89.0	16.0	23.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+61	019e4a461da508a5fc9520942fff7ba7	0.0	0.0	0.0	48.0	43.0	0.0	70.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_595422; f__Burkholderiaceae_A_595422; g__Castellaniella
+62	d49410cd15c32cbad6a830a55eba5493	37.0	53.0	21.0	0.0	0.0	0.0	0.0	0.0	46.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Abiotrophia; s__Abiotrophia defectiva
+63	b64ec5485bab068975098b3f0e58492d	20.0	0.0	0.0	0.0	0.0	49.0	61.0	24.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+64	8ab324690443855f8f1bef18d50ffe43	65.0	25.0	20.0	0.0	0.0	0.0	0.0	0.0	44.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597441; f__Neisseriaceae_563222; g__Neisseria_563205
+65	eba18f1e9ef53eff7c582811875a64aa	2.0	0.0	62.0	0.0	0.0	0.0	0.0	0.0	89.0	d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__Moranbacterales; f__DUUL01; g__DUUL01; s__DUUL01 sp012841575
+66	e7a665fae46b47c8a18315340ba9caf4	22.0	0.0	0.0	29.0	31.0	17.0	21.0	30.0	0.0	d__Bacteria
+67	16df3d6ba4d2a0f063a3dfeb73ca9df9	0.0	0.0	0.0	0.0	0.0	0.0	143.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia_401430; o__Acidimicrobiales
+68	4a31178c7f986d6f6addf49355becf95	34.0	0.0	0.0	0.0	0.0	92.0	0.0	15.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales; f__Kribbellaceae; g__Kribbella
+69	7cfad00ab36fd86f5c4df5e4b03aeb32	0.0	0.0	0.0	73.0	67.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales_616009; f__Xanthomonadaceae_616009
+70	f63ef0ab1cac2137e9dfb7e7074e31cd	0.0	0.0	0.0	0.0	0.0	40.0	99.0	0.0	0.0	d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__Thermomicrobiales; f__; g__; s__
+71	32b3e68ff3145fd0d4d05562a120bc91	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	136.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae; g__Hornefia
+72	48fe23708ca139962c6d6f8298307524	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	135.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597441; f__Neisseriaceae_563222; g__Neisseria_563205
+73	233fcf59f7a19d42db8b243e0b9aa35c	47.0	9.0	77.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae
+74	59ea8a9f2766b530d6e9bfb051ea3ec7	0.0	0.0	0.0	75.0	57.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+75	485739d31a097a4ad6bf92a49897d02c	0.0	0.0	0.0	4.0	0.0	85.0	34.0	7.0	0.0	d__Bacteria
+76	a9e24f83bc596ce23500f23aec15ca39	0.0	0.0	0.0	67.0	61.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Arcobacteraceae; g__Aliarcobacter
+77	5cf8b1a7879de1254fe554d14e881cde	0.0	0.0	0.0	0.0	0.0	128.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504721; f__Hyphomicrobiaceae
+78	1fcf2316ac1d02fb2c8812d9c28261f1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	127.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Micromonosporaceae
+79	ffdad2142cb81512aad0aead76c8a40b	8.0	0.0	0.0	12.0	0.0	0.0	91.0	14.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__TH1-2
+80	5336f563a5fedc6cd0063b4eea61faed	0.0	0.0	0.0	61.0	48.0	0.0	0.0	14.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+81	c47458a6dc729b3897ff33c0d9bc8a86	0.0	0.0	0.0	25.0	0.0	16.0	81.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597433; f__SG8-39; g__SCGC-AG-212-J23; s__SCGC-AG-212-J23 sp005881595
+82	9e7c4cb763c43e91bcd54849f3031a7d	64.0	38.0	13.0	0.0	0.0	0.0	0.0	0.0	6.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae
+83	b1bed50a045a72aa77f8aad0ae664272	49.0	0.0	8.0	0.0	0.0	0.0	0.0	0.0	64.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Weeksellaceae
+84	4c3db820bb39f4e9978f4f99626d2ecc	0.0	0.0	0.0	0.0	0.0	13.0	88.0	19.0	0.0	d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__GWC2-73-18; s__
+85	a045a35edbc85814dd7cf4fd347ce3b5	0.0	0.0	0.0	0.0	0.0	95.0	0.0	24.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae; g__SYSU-D60009; s__SYSU-D60009 sp003574735
+86	c37f6296fc3d73cbe8d3d11728b07d2b	0.0	0.0	0.0	0.0	0.0	0.0	0.0	116.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Pseudonocardiaceae
+87	cc2692db4986358269269b37f7a643e3	0.0	0.0	0.0	0.0	0.0	15.0	44.0	55.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466; g__Ohtaekwangia; s__Ohtaekwangia flava
+88	33a4aa5476927727eaca03bfe55aef8c	0.0	0.0	0.0	61.0	50.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Albibacterium
+89	ddace2de973ff426029ce68eebdff587	39.0	41.0	15.0	0.0	0.0	0.0	0.0	0.0	14.0	d__Bacteria; p__Firmicutes_C; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae_42771; g__Centipeda
+90	516500a7a7f80c573b7e86a75f9102c0	0.0	0.0	0.0	0.0	0.0	48.0	61.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504721; f__Methyloligellaceae; g__Methyloceanibacter
+91	1809ca8d94c9de6f602a4eacf7f6ce7f	0.0	108.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae; g__Capnocytophaga_820690; s__Capnocytophaga granulosa
+92	978f17cb6fb8298cc04e26e849d0e0fd	35.0	67.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus
+93	2d9b0ca521f76d711b1282aebda5aa42	0.0	0.0	0.0	0.0	0.0	0.0	102.0	0.0	0.0	d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__HRBIN33; s__
+94	746c5fc7fff07e6e580bfb4fedb91fdc	0.0	0.0	101.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales
+95	6f8e401f2bbe49af777524a85987d61f	0.0	0.0	0.0	59.0	41.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A_737866; f__Enterobacteriaceae_A
+96	5a55766eb8920820629137071ac517d8	0.0	0.0	0.0	0.0	0.0	17.0	0.0	81.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Tissierellales; f__Sporanaerobacteraceae; g__Anaerosalibacter
+97	c111fe2e769ab434d1d5abf3715a8d7a	0.0	0.0	0.0	0.0	0.0	0.0	98.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae_966727
+98	8ade8b4a71b02770a8f31b2cd1af2cbe	0.0	0.0	0.0	49.0	47.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+99	972335de0c7212067fd949f9f182af51	16.0	21.0	0.0	0.0	0.0	0.0	0.0	0.0	58.0	d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales_993521; f__Fusobacteriaceae_993521; g__Fusobacterium_C
+100	01163ae276883077496b0631e7d382bf	0.0	0.0	0.0	30.0	38.0	27.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597433; f__SG8-39; g__SCGC-AG-212-J23; s__SCGC-AG-212-J23 sp005881595
+101	11daa23d36cf116086316a40e39abe6b	0.0	0.0	0.0	0.0	0.0	57.0	0.0	37.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504721; f__Methyloligellaceae; g__Methyloceanibacter
+102	3382786c7b5377edc8c42bc54f791d57	0.0	0.0	0.0	0.0	0.0	32.0	61.0	0.0	0.0	d__Bacteria; p__Actinobacteriota
+103	7eeea19903760d81496c7b10196c7b72	0.0	0.0	0.0	0.0	0.0	0.0	93.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597433; f__SG8-39; g__SCGC-AG-212-J23; s__SCGC-AG-212-J23 sp005881595
+104	f202c989335ea39a0953539dfdd6c6e4	30.0	48.0	6.0	0.0	0.0	0.0	0.0	0.0	8.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cardiobacteriales; f__Cardiobacteriaceae; g__Cardiobacterium; s__Cardiobacterium valvarum
+105	5a056f93b213e182bbb6e2c11167cb92	13.0	24.0	16.0	0.0	0.0	0.0	0.0	0.0	39.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales; f__Propionibacteriaceae; g__Arachnia
+106	19c32de31ab525449bd2a28e43966bed	0.0	0.0	0.0	42.0	45.0	0.0	0.0	5.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+107	c86316f23549939cd05c165c931b67d9	37.0	0.0	53.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_C; c__Negativicutes; o__Veillonellales; f__Megasphaeraceae; g__Megasphaera_A_38565
+108	28df8ca6fe71eb0443869c181a5b3ae3	0.0	0.0	0.0	42.0	48.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A_737866; f__Enterobacteriaceae_A
+109	f5435bdc5faf0f769eb2071ee17a289f	48.0	0.0	22.0	0.0	0.0	0.0	0.0	0.0	19.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Peptostreptococcaceae_256921; g__Peptostreptococcus
+110	99781f175c6cd593281c54294b11791c	27.0	50.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter_A
+111	e413aa520364d8b8f6ae8d96ecb5b570	0.0	0.0	0.0	47.0	22.0	18.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504705; f__Xanthobacteraceae_503485; g__Bradyrhizobium
+112	bd55defc42b16c0a3c082ba5478265ca	0.0	7.0	0.0	14.0	16.0	39.0	0.0	10.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales_660879; f__Moraxellaceae; g__Acinetobacter
+113	8c34026fe49fa227128001bd1d13aa4f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	82.0	d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Atopobiaceae
+114	b9d7e3d5a4f3c25e4938b2ac32af1ce8	0.0	80.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae; g__Capnocytophaga_820688; s__Capnocytophaga leadbetteri
+115	7508f36b500167aecf24b918680f2469	0.0	0.0	0.0	38.0	42.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptosporangiales; f__Streptosporangiaceae
+116	0ae72ca4b6461fac49e3fd3ea21781f0	17.0	0.0	0.0	27.0	34.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9
+117	7f4b430542d73fc1c1c3b3481c6fae57	42.0	35.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A_737866; f__Pasteurellaceae
+118	a4d969274253164ebf4b8b5a4775099a	77.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia
+119	c651d22b1aead8644651167704edf517	22.0	0.0	30.0	0.0	0.0	0.0	0.0	0.0	25.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae
+120	902879eeca90585c54181e0b7c7b01ca	16.0	50.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Johnsonella; s__Johnsonella ignava
+121	18edf2979fec9982f1b606fcc16e69f6	0.0	0.0	0.0	39.0	38.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales_616009; f__Xanthomonadaceae_616009
+122	93d5b9f37deb9a2045d4f82ac04c7455	76.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+123	8f1acd099e44311a7a8376490b903e2e	76.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+124	da33d21077e4d9f1ab7dcd2d824b6e2c	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	76.0	d__Bacteria; p__Synergistota; c__Synergistia; o__Synergistales; f__Aminobacteriaceae
+125	43a023c806409ea803ff16cf0c71241f	18.0	0.0	0.0	0.0	0.0	16.0	0.0	0.0	40.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae
+126	fad01b6cf1e377e7eb7b81fa34e6c74d	13.0	7.0	27.0	0.0	0.0	0.0	0.0	0.0	26.0	d__Bacteria; p__Spirochaetota; c__Spirochaetia; o__Treponematales; f__Treponemataceae; g__Treponema_D
+127	f97ef43b6b97c9fa17f95c05e37eb0ae	0.0	0.0	0.0	35.0	29.0	9.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales_616009; f__Xanthomonadaceae_616009
+128	5c16a120b8c047f5a86fa5e0fd538914	0.0	0.0	0.0	0.0	0.0	73.0	0.0	0.0	0.0	d__Bacteria; p__Nitrospirota_A_437815; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Nitrospira_A
+129	5bd771b8ee89ccdab35bb849ef098caa	23.0	49.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales_993777; f__Leptotrichiaceae; g__Leptotrichia_A_993641; s__Leptotrichia_A sp001274535
+130	ab41af268b164f374d80cdcdb176effe	0.0	0.0	72.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Eubacteriales_258471; f__Eubacteriaceae_258449; g__Pseudoramibacter; s__Pseudoramibacter alactolyticus
+131	162f711627d8130193b18e2800b53c94	0.0	0.0	0.0	33.0	39.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae; g__Arenibacter; s__Arenibacter certesii
+132	9056faf3f23107117b202f6e1b087ff5	0.0	0.0	0.0	0.0	0.0	36.0	18.0	15.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+133	893ece4b89664eca995c36db50af6f32	43.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	25.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae; g__Tannerella
+134	5e0cbaf2f6d295af6f557ec010c6ec15	0.0	0.0	0.0	35.0	33.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae; g__Flavobacterium
+135	7b78cc65893df876a11e820bfda74565	0.0	0.0	0.0	0.0	0.0	0.0	0.0	68.0	0.0	d__Bacteria; p__Actinobacteriota; c__Thermoleophilia
+136	080b502184eb4db75c9c799b3257022f	0.0	0.0	0.0	0.0	0.0	67.0	0.0	0.0	0.0	d__Archaea; p__Thermoproteota; c__Nitrososphaeria_A; o__Nitrososphaerales; f__Nitrososphaeraceae
+137	035d8e6a74519a2f84968f139d041f96	0.0	0.0	0.0	0.0	0.0	0.0	67.0	0.0	0.0	d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales
+138	e5102d59d5a2b11ffadbf5f6cfadcf5d	0.0	9.0	0.0	21.0	16.0	20.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Micrococcaceae
+139	9964515ee117c7092c1c10d4919c4af4	0.0	0.0	0.0	0.0	0.0	66.0	0.0	0.0	0.0	d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales_778124; f__Rhabdochlamydiaceae; g__Rhabdochlamydia; s__
+140	d6b1a31fff05e803b855c2e786b76e27	27.0	38.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Lactobacillales
+141	0cf668f4c5dcf9d3f91ec92d47b07e17	0.0	0.0	31.0	0.0	0.0	0.0	0.0	0.0	33.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae
+142	6f27f5b0636ce4a9c4376c4142f7b276	0.0	0.0	0.0	27.0	17.0	0.0	20.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__Povalibacter; s__Povalibacter uvarum
+143	f501a67816ea1e428dc2b4ffd64ce8da	0.0	0.0	0.0	0.0	0.0	0.0	63.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae_966727
+144	69ca20aef52189f9db23b61677e4727b	0.0	62.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A_737866; f__Pasteurellaceae
+145	6db03b315286ceedcf286173365c4a8a	0.0	0.0	62.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Synergistota; c__Synergistia; o__Synergistales; f__Aminobacteriaceae
+146	a0521b948561262202ea42b37077d782	0.0	0.0	0.0	0.0	0.0	62.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+147	06215f9952ecabd23b948d49be28859a	20.0	27.0	0.0	0.0	0.0	0.0	0.0	0.0	14.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas_A_859423; s__Porphyromonas_A_859423 pasteri
+148	fe2a1474310d0451329424c9495a4d18	12.0	0.0	16.0	0.0	0.0	0.0	0.0	0.0	32.0	d__Bacteria
+149	03173a5f9a0103073a2f0427f8f56257	59.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Christensenellales; f__CAG-74; g__SFMI01; s__SFMI01 sp004556155
+150	d8f2549e0a2608a9edb5cce4c6bfda44	32.0	0.0	26.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces
+151	180a6a9938879e61f990146036bbef55	0.0	0.0	0.0	0.0	11.0	0.0	36.0	11.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+152	0d89a9265f5e83b7dc950ceef5a1ff5a	0.0	0.0	0.0	0.0	8.0	30.0	20.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466; g__ELB16-189; s__ELB16-189 sp001567185
+153	ec5a7af33af311954e4e016368d4acb4	0.0	0.0	0.0	25.0	28.0	0.0	4.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Microbacteriaceae
+154	0481a9db6f6c8efb4c0805cab9d7a809	0.0	0.0	0.0	0.0	0.0	0.0	32.0	25.0	0.0	d__Bacteria; p__Actinobacteriota
+155	4a664647fd630d59497e4a0da7eeff8a	0.0	0.0	56.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae; g__Hornefia
+156	60a3e4d0d46ffc271b622aa5c2339ca0	0.0	0.0	0.0	0.0	0.0	56.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+157	7ebeed655d8ac27398e2918db7cef5fd	0.0	0.0	0.0	27.0	27.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Brevundimonas
+158	811031db7d8d06caa477f3a1e2dad9d5	53.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Archaea; p__Methanobacteriota_A_1229; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter_A; s__Methanobrevibacter_A oralis
+159	367828d1252889baf268e163fb21094a	6.0	0.0	26.0	0.0	0.0	0.0	0.0	0.0	20.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
+160	a6c4fdd5386e1f71b2cf74f45352ac2b	23.0	5.0	10.0	0.0	0.0	0.0	0.0	0.0	14.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483
+161	c5f974c411ab88ef196528d7f25b331f	0.0	0.0	0.0	52.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae_405335; g__Patulibacter
+162	132f8c462bb175a4f21295a6e7ffb025	0.0	0.0	0.0	28.0	23.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597441
+163	1edbcb39cbb512e15cba0a99d36fe411	0.0	0.0	0.0	0.0	0.0	24.0	0.0	27.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Bacillales_D_310495; f__Amphibacillaceae
+164	2fffa5240b238ca5c44978ecd7c2f761	0.0	0.0	0.0	7.0	0.0	15.0	0.0	28.0	0.0	d__Archaea; p__Thermoproteota; c__Nitrososphaeria_A; o__Nitrososphaerales; f__Nitrososphaeraceae; g__TA-21; s__TA-21 sp005877075
+165	0973f06f7e60e12f99daaa26517f0dce	0.0	0.0	0.0	0.0	0.0	0.0	42.0	8.0	0.0	d__Bacteria
+166	e29ff19b6038a5c35f552d828fe4c790	0.0	0.0	0.0	0.0	0.0	0.0	0.0	50.0	0.0	d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__AG41; s__AG41 sp003222085
+167	68632df1e8e0294d4e5eda1119c071a9	0.0	0.0	0.0	24.0	0.0	25.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia_401430; o__Acidimicrobiales
+168	b871eb06bb0e7729be4292d3c96cfb0c	0.0	0.0	0.0	0.0	0.0	40.0	9.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592524; f__Burkholderiaceae_A_574758
+169	393fbb84760d404d0318395c36a65ea0	0.0	0.0	0.0	21.0	27.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia
+170	f6b0b724bf9cb7b66553e763093f87b8	0.0	0.0	0.0	19.0	29.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_595422; f__Burkholderiaceae_A_595422; g__Advenella
+171	b54877ae85d3230c3c240416e04b782a	47.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__Anaerolineaceae_409200; g__Flexilinea; s__Flexilinea sp902786265
+172	80c693683ba079be5454406b5eeac44a	0.0	10.0	20.0	0.0	0.0	0.0	0.0	0.0	17.0	d__Bacteria; p__Spirochaetota; c__Spirochaetia; o__Treponematales; f__Treponemataceae; g__Treponema_B_986141
+173	434c6a17479c34ffeda4b93b78f356e0	0.0	0.0	0.0	0.0	0.0	47.0	0.0	0.0	0.0	d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9
+174	34ec65589765fd9d43676cd135b6b557	0.0	0.0	0.0	19.0	27.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+175	35e04178223944064bf43fe63af3efe0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	22.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Pseudonocardiaceae; g__Pseudonocardia
+176	31ea26028c0c95f56572e55e989f4442	0.0	0.0	0.0	45.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_502138; f__Devosiaceae; g__Devosia_A_502124; s__Devosia_A_502124 ginsengisoli
+177	3d27a0848ab55a48ae16e527cf907aa6	0.0	0.0	0.0	0.0	13.0	0.0	0.0	31.0	0.0	d__Bacteria; p__Myxococcota_A_473307; c__UBA9160; o__UBA9160; f__; g__; s__
+178	a04652abb34f82c9cca89a0dcbb880ca	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	24.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Eubacteriales_258471; f__Eubacteriaceae_258449; g__Pseudoramibacter; s__Pseudoramibacter alactolyticus
+179	cfa8cbcd680355ee7b0af04b534d3e16	0.0	0.0	0.0	15.0	16.0	12.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Paenibacillales; f__Paenibacillaceae_367444
+180	6e057d5be84eee518a22f1f6f1df4735	0.0	0.0	0.0	0.0	43.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota
+181	f9c80a544f1d2a353c8b4d4bee9cb545	0.0	0.0	0.0	0.0	0.0	43.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__SCUD01; s__SCUD01 sp004297335
+182	c393270aed615f540e4b3e274ed01832	0.0	0.0	0.0	0.0	0.0	43.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466; g__ELB16-189; s__
+183	8e9de861332f95000b4e5e5a03eb2818	0.0	0.0	0.0	0.0	0.0	43.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota
+184	d0bae02115a51ebba6fa6baa3f44ebcc	0.0	0.0	0.0	0.0	0.0	42.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota
+185	4721edb1d10a4960f38ca61280ecd2fe	0.0	21.0	0.0	0.0	0.0	0.0	0.0	0.0	20.0	d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales_993777; f__Leptotrichiaceae; g__Leptotrichia_A_993641; s__Leptotrichia_A sp001274535
+186	6b8e74458ec130dd56ef24016899c3a4	0.0	0.0	0.0	41.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Thermoleophilia
+187	80bd1e8ba33f50dbeb04a31235bae8e7	7.0	0.0	0.0	0.0	0.0	15.0	18.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466
+188	7bca73c25d6bb9a2c7d13f95d476bb62	0.0	0.0	0.0	20.0	20.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+189	1c24924467239c76c9ab9a48afecf200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	40.0	0.0	d__Bacteria
+190	d0c19a9a7f695e8adc1fb47f365f069d	22.0	0.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Erysipelotrichales; f__Erysipelotrichaceae
+191	ef3431c1a2fed1f919462c520ea102dc	19.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	5.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Anaerovoracaceae; g__Mogibacterium; s__Mogibacterium timidum
+192	c51d7ada411a6638de903bf0dd6ebcac	0.0	39.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces
+193	f62aa367ef3bbe73cbb0b5d11df4aa17	0.0	30.0	0.0	0.0	0.0	0.0	0.0	0.0	9.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales
+194	f9c4cfde82931939abe68571b58c056f	0.0	0.0	2.0	0.0	0.0	0.0	37.0	0.0	0.0	d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Methylomirabilales; f__CSP1-5; g__CSP1-5; s__CSP1-5 sp001643535
+195	59bb5d91d3ba41ad2cddc79041a9812d	0.0	0.0	0.0	0.0	0.0	39.0	0.0	0.0	0.0	d__Bacteria; p__Zixibacteria; c__MSB-5A5_778960; o__GN15; f__PGXB01; g__; s__
+196	7d9f89813b0c9ef8304001d047a082af	6.0	0.0	0.0	0.0	0.0	22.0	10.0	0.0	0.0	d__Archaea; p__Thermoproteota; c__Nitrososphaeria_A; o__Nitrososphaerales; f__Nitrosopumilaceae; g__Nitrosopumilus_5141
+197	4bebd1290b2cd7650ac22e0798f38dbd	38.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A_737866; f__Pasteurellaceae
+198	18ac776d49a5a97e41ea842cdad0e353	0.0	0.0	0.0	8.0	0.0	10.0	0.0	20.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae; g__Nocardioides_A_392796
+199	1e76b768354f447d6b2203982ab03dc1	0.0	0.0	0.0	0.0	0.0	38.0	0.0	0.0	0.0	d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__Thermomicrobiales; f__; g__; s__
+200	1e9352c924bd2e28ddb7f6d23b17a116	0.0	0.0	0.0	0.0	0.0	0.0	13.0	25.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__Bog-1198; s__Bog-1198 sp003134045
+201	3b203185395c0131e1e357b40d03d03f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	38.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales
+202	1b8e99f6204cdfaa8d1027120f0fa1b8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	38.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+203	bbf50f74469dd54c97936baec1e97732	12.0	8.0	10.0	0.0	0.0	0.0	0.0	0.0	7.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+204	f19bb30d3fa27e9f8461df6cf47d5498	0.0	0.0	0.0	17.0	20.0	0.0	0.0	0.0	0.0	d__Bacteria
+205	3e26ed71b95b448d933671d41ad426c1	0.0	0.0	0.0	0.0	0.0	37.0	0.0	0.0	0.0	d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__UBA12499; s__UBA12499 sp001788395
+206	265bb34b5f6283b48364733f1e960462	0.0	0.0	0.0	0.0	0.0	0.0	15.0	21.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae
+207	70882433de4b24f0c348057c82bb09dc	22.0	0.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales
+208	de8d030921d49ec0f6ea5d7389d63268	0.0	11.0	12.0	0.0	0.0	0.0	0.0	0.0	12.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Butyricicoccaceae; g__Butyricicoccus_A_77419; s__Butyricicoccus_A porcorum
+209	df2ec37506d94b86c0455e847fc3e280	0.0	0.0	0.0	14.0	21.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli
+210	704a588b83a1bb2b49eb7fcc7cb0bac8	0.0	0.0	0.0	11.0	4.0	7.0	0.0	13.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae_966727
+211	dd91562861f492bf2888417fd0475efc	0.0	0.0	0.0	35.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_501637; f__Kaistiaceae_501637; g__Kaistia
+212	6e5161b9d5d87613acfeddf3c6a93864	0.0	34.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+213	68fd59cdb503e9448b97705d744aa9f6	0.0	0.0	0.0	24.0	10.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504705; f__Beijerinckiaceae; g__Microvirga
+214	1227c8f71245f4e8de996fe0c9334080	0.0	0.0	0.0	0.0	0.0	34.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+215	389739fed22294aa25ba2f4552d7fc9f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	34.0	0.0	d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__Gaiella; s__
+216	6eb2e74954ee5e8fb880dfdd03989166	0.0	0.0	16.0	0.0	0.0	0.0	0.0	17.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nevskiales; f__Nevskiaceae; g__Panacagrimonas; s__Panacagrimonas perspica
+217	4d4c4b45daab81ddbb605672ec203935	0.0	0.0	33.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__Actinomyces dentalis
+218	8991bf70a3f06f9531d9a96e18d771c3	0.0	0.0	0.0	0.0	33.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_502138; f__Devosiaceae; g__Devosia_A_502124; s__Devosia_A_502124 ginsengisoli
+219	448a8e2e36de7d482bedb7c09eb7b8c0	0.0	0.0	0.0	0.0	0.0	0.0	33.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae
+220	a516a7dc353b93748f87c043d4a04e27	32.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae; g__Nocardioides_A_392796
+221	05d4433d0f88287cb051022690227042	0.0	0.0	0.0	18.0	14.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales_650611; f__Pseudomonadaceae
+222	d8ad6f43d8507092efb6946d6ebdb51d	0.0	0.0	0.0	0.0	0.0	32.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_501396; f__Rhizobiaceae_A_499470
+223	01ede6a84b9f4404884fd5f2888a9fac	4.0	0.0	27.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Eggerthellaceae
+224	e1dabbd142ea4cfebd2b7b82917988f3	0.0	0.0	0.0	0.0	0.0	31.0	0.0	0.0	0.0	d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__Thermomicrobiales; f__Thermomicrobiaceae; g__Nitrolancea; s__Nitrolancea hollandica
+225	5fe8bc0f97076881ad28167713c82fe8	12.0	0.0	0.0	0.0	0.0	0.0	8.0	9.0	0.0	d__Bacteria
+226	04bccba40cf7c05547f19495b542b37f	0.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Lachnoanaerobaculum
+227	6a10ee5f6304242ff04b3901a982e004	0.0	0.0	0.0	0.0	0.0	0.0	29.0	0.0	0.0	d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__; g__; s__
+228	dd00fe41ec71a53e6733db499a890faf	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.0	d__Bacteria
+229	1d27bddd9148659e8a5e8f1352da4b18	0.0	9.0	19.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_C; c__Negativicutes; o__Selenomonadales; f__Selenomonadaceae_42771; g__Selenomonas_B_42762; s__Selenomonas sputigena
+230	ceb8faabddfc8940a1ff56abd848e6fe	0.0	0.0	0.0	0.0	0.0	28.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504721; f__Methyloligellaceae; g__Methyloceanibacter
+231	89f5d5fb3befe568f0d49b8e5cb52499	0.0	0.0	0.0	0.0	0.0	15.0	13.0	0.0	0.0	d__Bacteria; p__Nitrospirota_A_437815; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae
+232	1ef89cd0d17b92264bd1244c59c1b622	0.0	0.0	0.0	0.0	0.0	0.0	28.0	0.0	0.0	d__Bacteria
+233	3c8bb71d557fd7482f8ad8d0991d91c4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	28.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Pseudonocardiaceae
+234	f5ab7b881030832859f1811034f71516	0.0	0.0	0.0	0.0	0.0	0.0	0.0	28.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Streptosporangiales; f__Streptosporangiaceae; g__Nonomuraea_394555
+235	5cfee5ff52c192f03ba226d141c5a5b9	0.0	0.0	0.0	27.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Mycobacterium
+236	48ed0e8a8289d3f17a452d26109368aa	0.0	0.0	0.0	0.0	0.0	27.0	0.0	0.0	0.0	d__Bacteria
+237	48bb6b7c704bda9d761c4920019c00f1	0.0	0.0	0.0	0.0	0.0	27.0	0.0	0.0	0.0	d__Archaea; p__Thermoproteota; c__Nitrososphaeria_A; o__Nitrososphaerales; f__Nitrososphaeraceae; g__Nitrososphaera
+238	92e1b1e626c90b0cebc7c91aee0201f8	26.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__Anaerolineaceae_409200; g__Flexilinea; s__Flexilinea sp902786265
+239	39734d903ee84508c80e1b752c7b079c	0.0	26.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Weeksellaceae
+240	4d986e9b96b6c3b190e32fe3e92275a0	0.0	0.0	26.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Tannerellaceae
+241	42f3d4c0b88262626470be0e4251778f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	26.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504705
+242	187d2d873d83d6e881e1d1e3e095dc78	0.0	0.0	0.0	7.0	11.0	7.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Clostridiales; f__Clostridiaceae_222000; g__Clostridium_G
+243	a0cd845ee1e48512466d1b97f6eaedb3	0.0	0.0	0.0	0.0	0.0	0.0	25.0	0.0	0.0	d__Bacteria
+244	4b39aa45ad96b9e5f5d6f4fd3779198f	0.0	0.0	0.0	0.0	0.0	0.0	25.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__UBA1268; g__; s__
+245	5cf3b70e108f165a23f2ddba5c73f34e	0.0	0.0	0.0	0.0	0.0	0.0	25.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+246	cf9b0b03f5e9dd5bea62fa75e5cc42ca	0.0	0.0	0.0	0.0	0.0	0.0	0.0	25.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+247	09827f082f89a522f4194f586ccfdee9	4.0	0.0	0.0	0.0	0.0	20.0	0.0	0.0	0.0	d__Bacteria
+248	926dcdbe797973d43779b20e71badd46	24.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Atopobiaceae; g__Lancefieldella; s__Lancefieldella sp000564995
+249	63a2a17b9eda2969af2e9a3a12108354	0.0	24.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae
+250	9d1ba6405906e33cd5c6338b11914d90	0.0	0.0	0.0	24.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Propionibacteriales; f__Nocardioidaceae; g__Aeromicrobium
+251	1a49bf43db07e0976bde52259fa2b152	0.0	0.0	0.0	0.0	24.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae
+252	1bc8caa9202dfeb5c1314ea8c7386d02	0.0	0.0	0.0	0.0	0.0	24.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__UBA10030; g__2-02-FULL-55-14; s__2-02-FULL-55-14 sp001802945
+253	da1ddb0067cf212c5040630c91f36d72	0.0	0.0	0.0	0.0	0.0	17.0	0.0	7.0	0.0	d__Bacteria
+254	78c76e843968d725699a6667c740b0ff	0.0	0.0	0.0	0.0	0.0	14.0	0.0	10.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__; s__
+255	cc77d9e88382d849aab3cda3c4193d54	17.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+256	ca8bdd0422cc65524b5aa61270fbbb78	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597433; f__SG8-39; g__SCGC-AG-212-J23; s__SCGC-AG-212-J23 sp005881595
+257	76b728bcaef936d326e5e382f4857bfb	0.0	0.0	0.0	8.0	15.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+258	38c92d30359706165e02cedfe3957eb0	0.0	0.0	0.0	0.0	0.0	0.0	23.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales_616009; f__Xanthomonadaceae_616009; g__Lysobacter_A_615995
+259	33a1216469edaa3c5944f6ebedc9670a	0.0	0.0	0.0	0.0	0.0	0.0	23.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+260	b95bb4c417c98764de606e5ea30a310c	0.0	0.0	0.0	0.0	0.0	0.0	23.0	0.0	0.0	d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6
+261	aa7780d78aa0cfbf93bfb7ee64a1e924	8.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	d__Bacteria; p__Spirochaetota; c__Spirochaetia; o__Treponematales; f__Treponemataceae; g__Treponema_C; s__Treponema_C maltophilum
+262	b47a46b1602991c0cea3e3ed70675b09	22.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae
+263	59d5b4b2327d75fea4badf59b8133c6e	0.0	0.0	0.0	0.0	22.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__SZUA-252; f__SZUA-252; g__WS-7; s__WS-7 sp005893275
+264	385f03930f826c4cc9746be1aa1099a0	0.0	0.0	0.0	0.0	0.0	16.0	0.0	6.0	0.0	d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales
+265	a80f7bb2977b574ca84095700571b7a1	0.0	0.0	0.0	0.0	0.0	0.0	22.0	0.0	0.0	d__Bacteria
+266	c912b09aa6dc843c7b540206cdab1330	6.0	0.0	0.0	0.0	8.0	0.0	7.0	0.0	0.0	d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__RBG-16-71-46; s__RBG-16-71-46 sp001780165
+267	2c91f4d0885e23406c691c702a4cfe7c	0.0	0.0	0.0	0.0	0.0	0.0	21.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+268	2fd716ebb0445e0fda34195b1fa3788f	0.0	0.0	0.0	0.0	0.0	0.0	21.0	0.0	0.0	d__Archaea; p__Thermoproteota; c__Nitrososphaeria_A; o__Nitrososphaerales; f__Nitrososphaeraceae
+269	0af7fe09f325b5203a4b30c935445b1d	0.0	0.0	0.0	0.0	0.0	0.0	0.0	21.0	0.0	d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales
+270	56a55b9594ae0c4979c79ac371041e5a	8.0	12.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Desulfobacterota_I; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfomicrobiaceae; g__Desulfomicrobium; s__Desulfomicrobium orale
+271	930e03cbc2f5eef7760b96fd8229a03a	7.0	0.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Butyricicoccaceae; g__Butyricicoccus_A_77419; s__Butyricicoccus_A porcorum
+272	521a70377ef820b019dee57eb8b5a0f8	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales_993777; f__Leptotrichiaceae; g__Leptotrichia_A_993641; s__Leptotrichia_A sp001274535
+273	f7168d7b5980a0b89159028682898deb	0.0	0.0	0.0	13.0	7.0	0.0	0.0	0.0	0.0	d__Bacteria
+274	1b53f3bd1d22407f7f9a719a835c21b4	0.0	0.0	0.0	0.0	0.0	0.0	20.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_501582; f__Pleomorphomonadaceae; g__; s__
+275	4823c2a90273aea988f0c4128f8a7fc9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	20.0	0.0	d__Bacteria; p__Patescibacteria; c__UBA1384; o__UBA12157_A; f__UBA12157; g__GWE1-39-12; s__GWE1-39-12 sp001029735
+276	1d5506f847747b23f3657e89aee2b434	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Lachnoanaerobaculum
+277	e95806975abb134addc7defb23aa3f64	0.0	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Atopobiaceae
+278	cfa6c2ccf59ec1effdbac35bb1df0406	0.0	0.0	0.0	11.0	8.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Sulfurimonadaceae; g__Sulfurimonas
+279	c9a5abab99011302a549b8f5e97dee39	0.0	0.0	0.0	6.0	0.0	0.0	13.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597441
+280	359df1a652e0a4eb74534456cf908cf6	0.0	0.0	0.0	0.0	0.0	0.0	19.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+281	311f66e1cc651f5a3b9e50319218e7a9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19.0	0.0	d__Bacteria
+282	0a84ee95e144d2490dbc511f87e5cd99	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597432; f__Rhodocyclaceae
+283	ffeea51594f0e453244075febda9b222	18.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Synergistota; c__Synergistia; o__Synergistales; f__Synergistaceae; g__Syner-03; s__Syner-03 sp002839185
+284	c4771a613423a2649c5025689bc910fe	0.0	0.0	0.0	0.0	0.0	18.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Thermoleophilia; o__Solirubrobacterales; f__70-9
+285	b4b529f1905241f1de1cfeb1cb0af99c	0.0	0.0	0.0	0.0	0.0	18.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+286	55848ef102c86b07ceb291fb951951b0	0.0	0.0	0.0	0.0	0.0	0.0	18.0	0.0	0.0	d__Bacteria; p__Actinobacteriota
+287	dbb5a5c405d1d79a32c3aacd485a5a2b	0.0	0.0	0.0	0.0	0.0	0.0	18.0	0.0	0.0	d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__UBA5704; f__QQVD01; g__WTGL01
+288	fbe3bc796e5ec81590a22764f8761449	0.0	0.0	0.0	0.0	0.0	0.0	18.0	0.0	0.0	d__Bacteria; p__Krumholzibacteriota; c__Krumholzibacteria; o__LZORAL124-64-63; f__LZORAL124-64-63; g__; s__
+289	1e3157193f3b15ca8146bf3f9d276e28	0.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Fusobacteriota; c__Fusobacteriia; o__Fusobacteriales_993777; f__Leptotrichiaceae; g__Leptotrichia_A_993758
+290	46fb6404a102d62440df37c761b1b0ef	0.0	0.0	0.0	13.0	4.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+291	608a3d3ce13be90d1bbe503c71bb4718	0.0	0.0	0.0	17.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Brevundimonas
+292	cf54d592c0c0bf6f381f1f4247c46e03	0.0	0.0	0.0	0.0	17.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504705; f__Xanthobacteraceae_503485
+293	913d02e26fa0e0e67798781a0c4e3195	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	0.0	d__Bacteria
+294	41bb725e655a0ca26044e072a2584e7f	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+295	5e6bff3e0d237be9d30479545853b036	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+296	f2565af7300710f6258846430c80bb6e	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Christensenellales; f__CAG-74
+297	3a7dbc443a5c44a6ff6ae5cc3acaef73	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Corynebacterium; s__Corynebacterium matruchotii
+298	3023da26dffe757975f0e3a81a5ef592	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales
+299	8c661f51c0064ede0f8ef0e34e9eb45d	0.0	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Elusimicrobiota; c__Endomicrobia; o__Endomicrobiales; f__Endomicrobiaceae
+300	b81880ea871aa0b59a66e42465e71dd6	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	9.0	d__Bacteria; p__Campylobacterota; c__Campylobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter_B; s__Campylobacter_B gracilis
+301	f88fabff83f18a74a3653d132e67a892	0.0	0.0	0.0	7.0	9.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales
+302	c3ed0a9a496d65081221b6b8d7392cad	0.0	0.0	0.0	0.0	16.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium
+303	7e2824cc11db62a2a67b5ed82cbd61f1	0.0	0.0	0.0	0.0	0.0	11.0	5.0	0.0	0.0	d__Bacteria
+304	29b92faf88559063c5204a461936039b	0.0	0.0	0.0	0.0	0.0	6.0	0.0	10.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli
+305	3e034e891ac45f40ac4a58329890f4a4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Weeksellaceae; g__Bergeyella_A_791830
+306	f40732cae6f3a29865e58826b2951a87	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA9968; f__UBA9968
+307	382d76afbaff59af0461612642a9830e	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae_966727; g__Arachidicoccus
+308	20663eb0417d0f1a2de34b959ee6bbbb	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Akkermansiaceae; g__Luteolibacter_776538
+309	6f541864c7adf1217b7452d8ba3a6c1c	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+310	777949ad9f9e0e35b293c1c22e695771	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+311	22f661fd90e0176ea3641cdf8b0035f4	0.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Prevotella; s__Prevotella loescheii
+312	aa9c76fe3feb01b55095dea5c135c132	0.0	0.0	14.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Actinomycetales
+313	e22ba91eebb129ae55a4198ed27fe75e	0.0	0.0	0.0	5.0	9.0	0.0	0.0	0.0	0.0	d__Bacteria
+314	1d267d9a5e5ead67d0ed46825d84b49c	0.0	0.0	0.0	14.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+315	d140a45dbf8bbd0bdc9aac3c454ccd05	0.0	0.0	0.0	14.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium; s__Sphingobacterium sp000783305
+316	786b7021a023910ea67d659753dc5729	0.0	0.0	0.0	14.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+317	4c41fd296925129f1f46a331cd0e2d0e	0.0	0.0	0.0	14.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+318	536f2016e01ad0a18578d9f1ad896a41	0.0	0.0	0.0	0.0	0.0	0.0	14.0	0.0	0.0	d__Archaea; p__Thermoproteota; c__Nitrososphaeria_A; o__Nitrososphaerales; f__Nitrososphaeraceae; g__Nitrososphaera; s__Nitrososphaera sp002501845
+319	a04ce9af5421aacf6c550b63b5a81582	0.0	0.0	0.0	0.0	0.0	0.0	14.0	0.0	0.0	d__Bacteria; p__Acidobacteriota
+320	5baeac5b8323b318135bfbad8f1ca8c3	0.0	0.0	0.0	0.0	0.0	0.0	14.0	0.0	0.0	d__Bacteria; p__Nitrospirota_A_437815; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae
+321	5134a9c8faa8b7d46f93ec6c7759fbd3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+322	3e1ac265636259c8afde0a75b153704a	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597432; f__Rhodocyclaceae
+323	877035cf2c3a4a12c6a83e6e5a053fdc	0.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__RF39; f__UBA660
+324	9760fbaeb82d093fac8e11596a369519	0.0	0.0	0.0	7.0	6.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales_650612; f__Pseudohongiellaceae; g__Pseudohongiella; s__Pseudohongiella sp004535785
+325	33f8663560b941e70c1c6fcd8bb0f0ee	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__PALSA-1355; g__PALSA-1355; s__PALSA-1355 sp003153375
+326	788acc3ea366edaea195a3f8d57c078b	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+327	75fea68bc4ef53dbd2ec520fec172e35	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+328	a90899d75d263e9691a1abd12db49caf	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	d__Bacteria
+329	f729f327dc5260097a38b1441747987f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia
+330	e98401a92acbc4f33edc54342a5a4c25	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597433; f__SG8-39; g__SCGC-AG-212-J23; s__SCGC-AG-212-J23 sp005881595
+331	827978d2518ab18f2f1781fb169c717e	0.0	0.0	0.0	8.0	4.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Chlamydiota; c__Chlamydiia
+332	416d47c67813a8bdd56653b73320220c	0.0	0.0	0.0	0.0	12.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_504705
+333	7633da5aea330929a5a91150afd17372	0.0	0.0	0.0	0.0	0.0	0.0	12.0	0.0	0.0	d__Bacteria
+334	d720d818bdd756f2f22ff50e8cfbe683	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	0.0	d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__; s__
+335	fb329169056dd9fd5e9d355ba6dc77d1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	12.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingopyxis
+336	864b16061d35eb1c57443bcc63500b5b	0.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales
+337	b8a22c20fdae8f586ddb14f46086e76b	0.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+338	493f8557def9fb769aa8fc2a205f5102	0.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+339	5a7200d8a1460e0bec26a5795bc6a318	0.0	0.0	0.0	0.0	11.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales_650611; f__Pseudomonadaceae
+340	afe761dde795930b4ded4199135e9fcc	0.0	0.0	0.0	0.0	0.0	11.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Diplorickettsiales; f__; g__; s__
+341	be9b870423f096a360395a92734e8df3	0.0	0.0	0.0	0.0	0.0	11.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota
+342	ec19242346e16f1eba509c9b96a529de	0.0	0.0	0.0	0.0	0.0	8.0	0.0	3.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+343	5704ce65dd8428d928981213f889f781	0.0	0.0	0.0	0.0	0.0	11.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae
+344	6530154e1363e8479e477fa77439ada2	0.0	0.0	0.0	0.0	0.0	11.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522; g__Polaromonas
+345	0ae6bf3c1abaf4f86662d6e992accd01	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae
+346	294f13a6c00b2af4f44d9a2d520b0b30	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Prevotella; s__Prevotella loescheii
+347	4aa4b36458f057bab7f1d3721b231bea	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Spirosomaceae
+348	dcef28816301b76e772db63a52d50c40	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales_A_501059; f__Rhizobiaceae_A_501059; g__Shinella
+349	ddaead93183dfa2a4d931be19c49e3de	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae
+350	8bb057c700cfd895a958d83425d2002e	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Gordonia_B_376796
+351	aabb936bfa2ed24f6a72d35739ab819b	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466; g__Ohtaekwangia
+352	923315db167248c8e20b4da5140bab66	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+353	0bba218b6db3d8b642a9ca8eef4d15f9	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592524
+354	5bf82fbaed686b4d2dd731960c051934	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia
+355	7637f793de955e69d38f9c1c0d63ff65	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	d__Archaea; p__Thermoproteota; c__Nitrososphaeria_A; o__Nitrososphaerales; f__Nitrososphaeraceae
+356	35abe6150a5ad887b065f28a801c020c	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria
+357	ed53648a2b0de6284662f3c63eaab4dc	0.0	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales_778124
+358	d9da3086eeabb94913ccbc02f42ddc3e	0.0	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae; g__; s__
+359	958abb11d9368bd0624fa8438dc486e3	0.0	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__UBA1268
+360	55c69025be2c840097149365c451dc23	0.0	0.0	0.0	0.0	0.0	0.0	0.0	10.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Paenibacillales; f__Paenibacillaceae_367444
+361	5a1bb2870908a3258c705b9ecd215c20	0.0	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A_737866; f__Pasteurellaceae
+362	437a04b7459b84c0d18aa676f8ffac25	0.0	0.0	9.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Tissierellales; f__Peptoniphilaceae; g__; s__
+363	c78dd0c3a7d0d110f46fd7ad6e1683b3	0.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+364	9b922dbc4dce04c726ddad0be2d911de	0.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae; g__Planctomicrobium; s__Planctomicrobium piriforme
+365	4e10f22fb213edbf1a71b708322f1d91	0.0	0.0	0.0	0.0	9.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nitrosococcales; f__Methylophagaceae; g__; s__
+366	715bc4c146f0cffb7389a19caea77ced	0.0	0.0	0.0	0.0	0.0	9.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae
+367	af4ba124b6417691f2d08410124c2bad	0.0	0.0	0.0	0.0	0.0	0.0	9.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Legionellales_A; f__Legionellaceae_A; g__Tatlockia
+368	08418d4597566509255febc029df3564	0.0	0.0	0.0	0.0	0.0	0.0	9.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Lacipirellulaceae; g__Lacipirellula; s__
+369	a5383af5018030fbd30245daf1e630b1	0.0	0.0	0.0	0.0	0.0	0.0	9.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales_616009; f__Xanthomonadaceae_616009; g__Lysobacter_A_615995
+370	74edb8726aadbc7a07ee01fec93db7fd	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Paenibacillales
+371	8439fecdc0cae6070c046115732ddbf7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9.0	0.0	d__Bacteria
+372	fa42f75b893a43167cc434ca09832f0f	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	9.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Mycobacteriaceae; g__Corynebacterium; s__Corynebacterium durum
+373	6ba33fa42b1b11c6519ecdb1d1455a97	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Synergistota; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Pyramidobacter; s__Pyramidobacter piscolens
+374	da38d6af1838d4ba9dbe12bd9e0ec0b1	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Nevskiales; f__Nevskiaceae
+375	6ecef60655fffa41c64f5dce406b51ee	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia
+376	1eaadadb048f2e070dcca56b3634ed92	8.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+377	a1b0fd438d4b002964f5d54167b0dab6	0.0	0.0	0.0	4.0	4.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae_929733; g__OLB11; s__OLB11 sp001567165
+378	f91f30f04c3c448e9dea4184a44156c4	0.0	0.0	0.0	0.0	2.0	0.0	6.0	0.0	0.0	d__Bacteria
+379	c88160e00cbc662ef0d9162d5ab352c4	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae
+380	3bce136f47e04e8d6a8e880d28f2a18b	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	0.0	d__Bacteria
+381	9c7eee9c022206e8aa093820b7548bcf	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales; f__Vermiphilaceae
+382	179172a6e95994ca6135b3d084b13318	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	d__Bacteria
+383	2808d6b4d55483ed9ceaab3487e98ac6	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Pseudonocardiaceae; g__Saccharopolyspora_D_379427
+384	538211a73fde18b6ac09a94682d282fa	0.0	0.0	0.0	0.0	0.0	8.0	0.0	0.0	0.0	d__Bacteria; p__Acidobacteriota; c__Acidobacteriae
+385	539c95424556291e7fff99d1af59cf87	0.0	0.0	0.0	0.0	0.0	4.0	4.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia
+386	66361a9d0e1f42adb219359d8b560b18	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.0	0.0	d__Bacteria
+387	7e57a4791bb23e66a3a87f9c6720d641	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+388	90d320366257a317e490fd08269c4cf2	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae_433871
+389	2275c529c40bc0bd24ed1a96d2d62959	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Vallitaleaceae_A_116062; g__W11650
+390	caf88389f45d5412bc220cf278a246e6	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Erysipelotrichales; f__Coprobacillaceae; g__Eggerthia; s__Eggerthia catenaformis
+391	19290b750bffadb2a571d898d732cb76	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+392	1bfd643ec24ad61023b9fc1bb1da4277	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Akkermansiaceae; g__Luteolibacter_776538
+393	8f99768b776522998d0e5161421e309b	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Pirellulaceae
+394	24de0b9371431d8d8533f707aca7c88f	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia_401430; o__Acidimicrobiales; f__Ilumatobacteraceae
+395	157490c098f25378c2303c827dc4c4f6	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	d__Bacteria
+396	703fe1211985527af3275fed4d587655	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_597437; f__Casimicrobiaceae; g__VBCG01; s__VBCG01 sp005881895
+397	62f50ae3ca8db5149da3ccbcd0718f7e	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	0.0	d__Bacteria
+398	60e54255a7b2377d378f86c589ded691	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	d__Bacteria
+399	c326e90bd6c8e9e5dd2b3cb98ea18224	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales_660905; f__Alcanivoracaceae; g__Alcanivorax_A; s__Alcanivorax_A dieselolei
+400	b7a6bed90dc76d8ab2063f0d20f2c512	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	d__Bacteria
+401	a4c29f198d9c6601bffffe84b343902f	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Acidiferrobacterales; f__Sulfurifustaceae; g__Sulfuricaulis; s__Sulfuricaulis limicola
+402	1a799c29756a30c8c8184783ec87cdcf	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	0.0	d__Bacteria
+403	837606cff6e47fdbeee4f18844cc05dc	0.0	0.0	0.0	0.0	0.0	0.0	0.0	7.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae; g__Singulisphaera; s__Singulisphaera acidiphila
+404	205ab3874245c3da0a1832da577b2e40	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483
+405	2e9b8309d5bd42a331ed088b276b49fb	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Elusimicrobiota; c__Endomicrobia; o__Endomicrobiales; f__Endomicrobiaceae
+406	b2af011cc6324013d181e1e3996de177	0.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Desulfobacterota_I; c__Desulfobulbia; o__Desulfobulbales; f__Desulfobulbaceae; g__Desulfobulbus_A_451156; s__Desulfobulbus_A_451156 oralis
+407	35c7953c937f3fff9d9a52e7192bcf47	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae
+408	8c5f778726e05aa62693a6cfd9298a2a	0.0	0.0	0.0	3.0	3.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__EnvOPS12; g__UBA12294; s__UBA12294 sp002050275
+409	c1d99679da69f40b3ccc527b7c82624b	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Diplorickettsiales; f__Diplorickettsiaceae; g__Aquirickettsiella; s__Aquirickettsiella isopodorum
+410	8f7213303dc693d6d400ba762b2e7aae	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	0.0	d__Bacteria
+411	1ce828fff3c0e9763a533f24aedc1247	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae_900466
+412	7a2fcd8e9eee13adc644b5089c421c83	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	d__Bacteria; p__Actinobacteriota
+413	9fce262efee38f765e561df893b083be	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	d__Bacteria; p__Actinobacteriota; c__Actinomycetia; o__Mycobacteriales; f__Pseudonocardiaceae
+414	f4459fdcbc5d9ccbe59194592647d31d	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	0.0	d__Bacteria; p__Actinobacteriota
+415	4fd33c8ca56351760723f4098856f020	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	d__Bacteria
+416	74faa8016c544a82d6cd6aca347f8d93	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	0.0	d__Bacteria; p__Planctomycetota; c__UBA1135; o__UBA1135; f__GCA-002686595
+417	01a2c2d20948deb51d8aa64f72ce556a	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Prevotella
+418	2909995fb80e2f8db88745e5919763ff	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Patescibacteria; c__JAEDAM01; o__Absconditabacterales; f__X112; g__HOT-345; s__HOT-345 sp003260355
+419	ed843cd096835ecf9f2eb9aac433290e	2.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+420	5fd7bc7ffbd6ebd8951c3dda0cbbdbee	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Peptostreptococcales; f__Filifactoraceae_235824; g__Filifactor; s__Filifactor villosus
+421	a2dc6c14b38d683fd8728b477aab5ca2	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Patescibacteria; c__JAEDAM01; o__Absconditabacterales; f__X112; g__HOT-345; s__HOT-345 sp003260355
+422	c3a6cbd8d1355e4ce52acf302e0b7fe9	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Christensenellales; f__Christensenellaceae; g__Christensenella
+423	fa836fd6f626225191ce2c7a871eadee	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Desulfobacterota_I; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae
+424	ad0300313df3a72ab5e39679884acf2b	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+425	0276614bb615678154da8c3dabe8a2a9	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+426	b3e107ed956f0610d2ae351bcf7ec2ce	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA6257
+427	ed86ecbd58d32d04bdf67e2f881bc128	0.0	0.0	0.0	2.0	3.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Lacrimispora
+428	a92c016a913566a861efa990fa69356f	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bdellovibrionota_E; c__Bdellovibrionia_A_470743; o__UBA1018; f__UBA1018; g__GWA1-52-35; s__GWA1-52-35 sp001769805
+429	f5c8cce1ffcae4d85d8e54e8ee576cb8	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae; g__Planctomicrobium; s__Planctomicrobium piriforme
+430	d100e9cf3682fb9d759c9ce88707766e	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Parapedobacter
+431	9936a15b9c2e8ca8d0aefac1ba85fe82	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__SM1A02; g__CAADGA01
+432	85ddd90ad93aab42c294704766bd5711	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	0.0	d__Bacteria; p__Patescibacteria; c__ABY1; o__SG8-24; f__2-12-FULL-60-25; g__21-14-all-47-17; s__21-14-all-47-17 sp002786495
+433	90867eaed18f7bee66e6ea3207e69796	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	d__Bacteria; p__Acidobacteriota; c__HRBIN11; o__HRBIN11; f__HRBIN11; g__HRBIN11; s__
+434	601c4c3e56a37a97fc754c642c7e4c43	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Burkholderiales_592522; f__Burkholderiaceae_A_592522
+435	d88206c7fdcf488cafaa9c4d48f08311	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.0	0.0	d__Bacteria
+436	189937fcf192f150c4457491ca4a2547	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Proteobacteria
+437	b6219eaa7334406759b8fe5f2cdf5343	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+438	524a8a9fb1ee0eab16bc9d6aeddcd73f	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_D; c__Bacilli; o__RF39; f__UBA660
+439	a70c7556269f600b9e4c6c5ff2d329d9	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae
+440	8018529aeb5fed37e610ddfdbd8f9731	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia
+441	ce8da62c27f5686bead70ee1bcd819a5	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Synergistota; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Pyramidobacter; s__Pyramidobacter piscolens
+442	295600e7d89893452c72a74c2c63925a	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999
+443	da676aecf9cbd3fd4ec07d3fcc00574d	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+444	cb9375dff5f576a78a29e315a74bfb5b	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Pirellulaceae; g__Rhodopirellula
+445	d7f84c263810307e400704aeb5539c90	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	0.0	d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Clostridiales; f__Clostridiaceae_222000; g__Clostridium_L
+446	744407156c1fbd2d6c2599b983c3f4e2	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales_877923; f__Flavobacteriaceae; g__Flavobacterium
+447	74b84256d58b363a92b6fe37c61ccd37	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9983_A; f__XYD1-FULL-46-19
+448	a12690c373929ca74d50e7f0a9fbc73f	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	0.0	Unassigned
+449	689e4556f7f868f12d05b81de8230f8a	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	0.0	d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales
+450	8bf5568d27fc74dfd393edc4e3a674f8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.0	d__Bacteria; p__Desulfobacterota_I; c__Desulfovibrionia; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio_R_446353
+451	9effb506c39c0a36ec974477d3212817	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata_1773; o__Methanomassiliicoccales; f__Methanomethylophilaceae
+452	241c54642e9c38d7a59a26fdb08dbd46	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Bacteria
+453	f7575654ee211f842ec53f445e7293d3	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	d__Bacteria
+454	07016d8ca7a51fff225f74918951b359	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae; g__Planctomicrobium; s__Planctomicrobium piriforme
+455	55e096a295c4bc3c67a2c5d5f7bda90e	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	d__Bacteria; p__Acidobacteriota; c__Acidobacteriae; o__Acidoferrales; f__UBA7541; g__QHYP01; s__QHYP01 sp003224195
+456	271c3c2aefdc538dec31c4e0bde23b94	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	d__Bacteria
+457	1f40219c478f76d6cc6abc91ba05d05f	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	0.0	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae
+458	d0e356e8ccd44149b644e93b7a7b119e	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.0	0.0	d__Bacteria; p__CLD3; c__CLD3; o__SB21; f__SB21; g__SB21; s__SB21 sp008933615
+459	d179fa22aeec4f0b474968737887860c	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	d__Bacteria
+460	4ac691efc42815907094ae76d33cd57a	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Woesearchaeales_468; f__ARS49; g__DSQK01; s__DSQK01 sp011331795
+461	6d9fdddc2537426a81cee639926ded7a	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__Membranicola; s__Membranicola marinus
+462	3d4021379c974d16baa4e6f0b1c66043	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	d__Bacteria
+463	01eb5e49ad26fb4b6f04e7758d6ade36	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Bacteria
+464	b0dba4f05d2dc7f7901c1ff5a43123ba	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0.0	d__Bacteria
